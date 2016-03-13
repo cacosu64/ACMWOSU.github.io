@@ -1,2 +1,1 @@
-# ACMWsite
-An attempted redesign of the osu ACMW site
+A redesign of the ACM-W at OSU page.
