@@ -8,31 +8,31 @@
 }
 .nav li {
   font-family: 'Roboto', sans-serif;
-  font-weight:300;
+  font-weight: 300;
   font-size: 1.2em;
   line-height: 40px;
   height: 40px;
   border-bottom: 1px solid white;
 }
- 
+
 .nav a {
   text-decoration: none;
   color: #fff;
   display: block;
   transition: .3s background-color;
 }
- 
+
 .nav a:hover {
   background-color: #cd87ef;
   color: white;
 }
- 
+
 .nav a.active {
   background-color: #fff;
   color: #800080;
   cursor: default;
 }
- 
+
 @media screen and (min-width: 600px) {
   .nav li {
     width: 120px;
@@ -55,208 +55,210 @@
 }
 
 /******** General/Home ******/
-b{
-	color: #800080;
+b {
+  color: #800080;
 }
 body {
-	color: black;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
-	margin: 0;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  margin: 0;
 }
 
-.section_one{
-	display: block;
-	padding-top: 2em;
-	text-align:center;
+.section_one {
+  display: block;
+  padding-top: 2em;
+  text-align: center;
 }
-.logo{
-	margin: auto;
-}	
+.logo {
+  margin: auto;
+}
 .title {
-	margin: auto;
-	font-size: 36pt;
-	min-width: 415px;
-	overflow: visible;
-	margin-bottom: 40px;
+  margin: auto;
+  font-size: 36pt;
+  min-width: 415px;
+  overflow: visible;
+  margin-bottom: 40px;
 }
-.name{
-	text-align: left;
-	margin: 1em auto 1em auto;
-	font-weight: 300;
-	width: 350px;
-}
-
-@media screen and (min-width: 900px){
-	.section_one{
-		display: flex;
-		padding-top:0;
-		margin-top: 2em;
-	}
-	.title {
-	margin: auto;
-	margin-left: 40px;
-	font-size: 36pt;
-	min-width: 415px;
-	overflow: visible;
-	margin-bottom: 40px;
-	}
-	.name{
-		text-align:left;
-		margin-bottom: 25px;
-		font-weight: 300;
-	}
-	.logo{
-		margin-right: 40px;
-	}
+.name {
+  text-align: left;
+  margin: 1em auto 1em auto;
+  font-weight: 300;
+  width: 350px;
 }
 
-.section_two{
-	padding: 0 100px;
-	margin: auto;
-	text-align: left;
-	max-width: 1000px;
+@media screen and (min-width: 900px) {
+  .section_one {
+    display: flex;
+    padding-top: 0;
+    margin-top: 2em;
+  }
+  .title {
+    margin: auto;
+    margin-left: 40px;
+    font-size: 36pt;
+    min-width: 415px;
+    overflow: visible;
+    margin-bottom: 40px;
+  }
+  .name {
+    text-align: left;
+    margin-bottom: 25px;
+    font-weight: 300;
+  }
+  .logo {
+    margin-right: 40px;
+  }
 }
-.header{
-	font-size:xx-large;
-	padding-top: 1em;
-	border-bottom: 1px solid;
+
+.section_two {
+  padding: 0 100px;
+  margin: auto;
+  text-align: left;
+  max-width: 1000px;
+}
+.header {
+  font-size: xx-large;
+  padding-top: 1em;
+  border-bottom: 1px solid;
 }
 .content {
-	font-size:x-large;
-	font-weight:300;
-	padding: 2em;
-	margin: auto;
-	text-align: left;
-	max-width: 1000px;
+  font-size: x-large;
+  font-weight: 300;
+  padding: 2em;
+  margin: auto;
+  text-align: left;
+  max-width: 1000px;
 }
 
 .tagline {
-	font-size: 22pt;
-	font-weight: 300;
-	padding-left: 50px;
+  font-size: 22pt;
+  font-weight: 300;
+  padding-left: 50px;
 }
 
 .time {
-	font-size: 16pt;
-	font-weight: 300;
+  font-size: 16pt;
+  font-weight: 300;
 }
 
 h1 {
-	font-weight: 300;
-	display: center;
+  font-weight: 300;
+  display: center;
 }
 
 .bold {
-	font-weight: 300;
+  font-weight: 300;
 }
 
 /**** Buttony things ****/
 
 .f {
-	font-size: 32pt;
-	margin-left: 10px;
-	margin-right: 10px;
+  font-size: 32pt;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 
 a {
-    color: #800080;
-    text-decoration: none;
-    border-bottom: none;
-    width: auto;
+  color: #800080;
+  text-decoration: none;
+  border-bottom: none;
+  width: auto;
 }
 
 a:hover {
-	text-decoration: none;
-	color: #cd97ef;
+  text-decoration: none;
+  color: #cd97ef;
 }
 .button {
-   border: 3px solid #800080;
-   text-align: center;
-   padding: 8px 16px;
-   border-radius: 10px;
-   vertical-align: middle;
-   font-size: 32px;
-   font-weight: 300;
+  border: 3px solid #800080;
+  text-align: center;
+  padding: 8px 16px;
+  border-radius: 10px;
+  vertical-align: middle;
+  font-size: 32px;
+  font-weight: 300;
 }
 .button:hover {
-   border: 2px solid #cd97ef;
+  border: 2px solid #cd97ef;
 }
 /********* Footer *********/
-footer{
-	text-align: center;
-	width: 100%;
+footer {
+  text-align: center;
+  width: 100%;
 }
-.social_icons{
-	font-size: 3em;
-	color: #fff;
+.social_icons {
+  font-size: 3em;
+  color: #fff;
 }
-.signature{
-	margin: 0;
-	margin-top: 1em;
-	font-weight:300;
-	font-size:9pt;
+.signature {
+  margin: 0;
+  margin-top: 1em;
+  font-weight: 300;
+  font-size: 9pt;
 }
 /********* Join *********/
 
-.list{
-	list-style-type: circle;
+.list {
+  list-style-type: circle;
 }
 
 /****** Events Stuff ******/
 
-.event{
-font-weight: 300;margin-bottom: 20px;}
-
-.events_container{
-margin: 0px 15% 0px 15%;
+.event {
+  font-weight: 300;
+  margin-bottom: 20px;
 }
 
-.events_header{
-border-bottom: 1px solid black;
-font-size: -webkit-xxx-large;
-font-weight: 500;
+.events_container {
+  margin: 0px 15% 0px 15%;
 }
 
-.event .name{
-font-size: xx-large;
-font-weight:600;
+.events_header {
+  border-bottom: 1px solid black;
+  font-size: -webkit-xxx-large;
+  font-weight: 500;
 }
 
-.event .date{
-font-size: x-large;
-font-weight: inherit;
-margin: 0;
-margin-top:5px;
-margin-left: 20px;
+.event .name {
+  font-size: xx-large;
+  font-weight: 600;
 }
 
-.event .location{
-font-weight: inherit;
+.event .date {
+  font-size: x-large;
+  font-weight: inherit;
+  margin: 0;
+  margin-top: 5px;
+  margin-left: 20px;
 }
 
-.event .desc{
-font-size: large;
-font-weight: inherit;
-margin: 0;
-margin-top:5px;
-margin-left: 20px;
+.event .location {
+  font-weight: inherit;
+}
+
+.event .desc {
+  font-size: large;
+  font-weight: inherit;
+  margin: 0;
+  margin-top: 5px;
+  margin-left: 20px;
 }
 
 /********* About *********/
 
 /********* Contact ******/
-.split{
-	text-align: center;
+.split {
+  text-align: center;
 }
 
-.left{
-	display: -webkit-inline-box;
-    margin: 2em;
+.left {
+  display: -webkit-inline-box;
+  margin: 2em;
 }
 
-.right{
-	display: -webkit-inline-box;
-    margin: 2em;
+.right {
+  display: -webkit-inline-box;
+  margin: 2em;
 }
