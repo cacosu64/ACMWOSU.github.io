@@ -1,0 +1,104 @@
+{
+  "months":[
+    {
+      "Mar":[
+        {
+        "name":"Tech Talk with Persistent Systems",
+        "fb_url":"https://www.facebook.com/events/1239184472763025/",
+        "other_url":"",
+        "weekday":"",
+        "day":"30th",
+        "time":"7:00-8:00pm",
+        "location":"DL357",
+        "location-link":"",
+        "description":"ACM-W will be hosting Sid Chatterjee, CTO of Persistent Systems on \"Predictions for 2016: Eight Game-Changing Digital Technologies for Enterprise Transformation"
+        }
+      ]
+    },
+    {
+      "Apr":[
+        {
+        "name":"HMB Tech Talk",
+        "fb_url":"",
+        "other_url":"",
+        "weekday":"Wednesday",
+        "day":"6th",
+        "time":"7:00-8:00pm",
+        "location":"DL 357",
+        "location-link":"",
+        "description":"Moving From College to Enterprise: What to Expect when Entering the Industry<br/>
+        After graduation, students quickly discover the real world can be very different from the classroom. From development methodologies to team responsibilities, we will discuss how software is created in an enterprise in order to better prepare students for their transition into the professional world.<br/>
+        <b>As always, food will be provided.</b>"
+        },
+        {
+        "name":"Spring Picnic",
+        "fb_url":"https://www.facebook.com/events/1785307778372029",
+        "other_url":"",
+        "weekday":"Friday",
+        "day":"8th",
+        "time":"6:00-9:00pm",
+        "location":"Women's Field House",
+        "location-link":"https://goo.gl/maps/kRyXui9He5u",
+        "description":"ACM-W is hosting our annual Spring Picnic as part of Arch-E Week this year. Come enjoy some Raising Cane's, fun & games with your friends!
+  (The Women's fields House is located near the RPAC on Cannon Drive)"
+        },
+        {
+        "name":"Women in Analytics Conference",
+        "fb_url":"",
+        "other_url":"https://www.eventbrite.com/e/women-in-analytics-conference-registration-22126090733",
+        "weekday":"",
+        "day":"19th",
+        "time":"4:00-5:00pm",
+        "location":"The Faculty Club",
+        "location-link":"https://goo.gl/maps/ztrzrph6jSK2",
+        "description":"We’re gathering Ohio’s brightest data analysts to share their knowledge, experiences, and climbs to the top of an elaborate and growing career. From students to experienced professionals, we invite the public to learn and spread awareness about the thriving world of women in data analytics.",
+        "rsvp":"RSVP by 4/8",
+        "rsvp_link":"https://www.eventbrite.com/e/women-in-analytics-conference-registration-22126090733"
+        },
+        {
+        "name":"Collaborative analytics: Meeting global challenges through shared research and development",
+        "fb_url":"",
+        "other_url":"http://www.cura.osu.edu/rsvptolle",
+        "weekday":"",
+        "day":"19th",
+        "time":"4:00-5:00pm",
+        "location":"Wexner Center for the Arts",
+        "location-link":"https://goo.gl/maps/bwsSxh9xKno",
+        "description":"This talk will focus on research collaborations that cut across disciplinary, organizational, and geographical boundaries to generate research and development breakthroughs on global challenges such as healthcare and climate change. Pushing the state of the art can be facilitated through these partnerships--public/private and academic/industry--when each group bring their unique strengths and perspectives to bear on scientific problems.",
+        "rsvp":"RSVP",
+        "rsvp_link":"http://www.cura.osu.edu/rsvptolle"
+        }
+      ]
+    },
+    {
+      "Oct":[
+        {
+        "name":"Grace Hopper Conference 2016",
+        "fb_url":"",
+        "other_url":"http://ghc.anitaborg.org/",
+        "weekday":"",
+        "day":"19-21th",
+        "time":"",
+        "location":"Houston, TX",
+        "location-link":"",
+        "description":""
+        }
+      ]
+    },
+    {
+      "Nov":[
+        {
+        "name":"HackOHI/O 2016",
+        "fb_url":"",
+        "other_url":"http://hack.osu.edu/",
+        "weekday":"",
+        "day":"19-20th",
+        "time":"",
+        "location":"",
+        "location-link":"",
+        "description":""
+        }
+      ]
+    }
+  ]
+}
