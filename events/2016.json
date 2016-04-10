@@ -1,21 +1,5 @@
 {
   "months":{
-    "Jan": [
-      {
-        "name":"",
-        "fb_url":"",
-        "other_url":"",
-        "weekday":"",
-        "day":"",
-        "time":"",
-        "location":"",
-        "location-link":"",
-        "description":""
-      }
-    ],
-    "Feb":[
-
-    ],
     "Mar":[
       {
       "name":"Tech Talk with Persistent Systems",
@@ -82,21 +66,6 @@
       "rsvp_link":"http://www.cura.osu.edu/rsvptolle"
     }
     ],
-    "May":[
-
-    ],
-    "Jun":[
-
-    ],
-    "Jul":[
-
-    ],
-    "Aug":[
-
-    ],
-    "Sep":[
-
-    ],
     "Oct":[
       {
         "name":"Grace Hopper Conference 2016",
@@ -122,9 +91,6 @@
         "location-link":"",
         "description":""
       }
-    ],
-    "Dec":[
-
     ]
   }
 }
