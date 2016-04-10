@@ -1,0 +1,65 @@
+{
+  "months":{
+    "Jan": [	
+      { 				<--- Start event
+        "name":"",			Event Name -- The big title to be displayed
+        "fb_url":"",			Will add a fb icon and link big title to the facebook page -- higher priority
+        "other_url":"",			will add an external link icon and link title to this page -- lower priority
+        "weekday":"",			Day of the week "Monday", "Wednesday", etc.
+        "day":"",			"11th" "1st" etc
+        "time":"",			9:00am-5:00pm etc
+        "location":"",			
+        "location-link":"",		adds a map icon and links the location here
+        "description":"",		The body of the event description
+	"rsvp":"",			Usually "RSVP {by xx/xx}" -- comes below the description
+	"rsvp_link":""			where the rsvp links to
+      },				<--- End event
+      {
+        "name":"",
+        "fb_url":"",
+        "other_url":"",
+        "weekday":"",
+        "day":"",
+        "time":"",
+        "location":"",
+        "location-link":"",
+        "description":"",
+	"rsvp":"",
+	"rsvp_link":""
+      }					<--- Notice no ,!
+    ],
+    "Feb":[
+
+    ],
+    "Mar":[
+
+    ],
+    "Apr":[
+
+    ],
+    "May":[
+
+    ],
+    "Jun":[
+
+    ],
+    "Jul":[
+
+    ],
+    "Aug":[
+
+    ],
+    "Sep":[
+
+    ],
+    "Oct":[
+
+    ],
+    "Nov":[
+
+    ],
+    "Dec":[
+
+    ]
+  }
+}

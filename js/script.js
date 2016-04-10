@@ -4,5 +4,5 @@ $.getJSON(events)
     console.log(data);
     })
   .fail( function( ) {
-    console.log("ping");
+    console.log("fuck");
     });
