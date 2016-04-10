@@ -170,7 +170,8 @@ footer{
 .signature{
 	margin: 0;
 	margin-top: 1em;
-	font-weight:300;
+	font-weight: 300;
+	font-size: 9pt;
 }
 /********* Join *********/
 
@@ -236,3 +237,4 @@ footer{
 	display: -webkit-inline-box;
     margin: 2em;
 }
+
