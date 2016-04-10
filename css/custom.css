@@ -1,12 +1,12 @@
 /******* NavBar *******/
-.nav ul {
+nav ul {
   list-style: none;
-  background-color: #800080;
   text-align: center;
   padding: 0;
   margin: 0;
+  background-color: #800080;
 }
-.nav li {
+nav li {
   font-family: 'Roboto', sans-serif;
   font-weight:300;
   font-size: 1.2em;
@@ -15,55 +15,48 @@
   border-bottom: 1px solid white;
 }
  
-.nav a {
+nav a {
   text-decoration: none;
   color: #fff;
   display: block;
   transition: .3s background-color;
 }
  
-.nav a:hover {
+nav a:hover {
   background-color: #cd87ef;
   color: white;
 }
  
-.nav a.active {
+nav a.active {
   background-color: #fff;
   color: #800080;
   cursor: default;
 }
  
 @media screen and (min-width: 600px) {
-  .nav li {
+  nav li {
     width: 120px;
     border-bottom: none;
     height: 50px;
     line-height: 50px;
     font-size: 1.4em;
   }
-  .nav li {
+  nav li {
     float: left;
   }
-  .nav ul {
+  nav ul {
     overflow: hidden;
     width: 600px;
     margin: 0 auto;
   }
-  .nav {
+  nav {
     background-color: #800080;
   }
+
 }
 
 /******** General/Home ******/
-b{
-	color: #800080;
-}
-body {
-	color: black;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
-	margin: 0;
-}
+
 
 .section_one{
 	display: block;
@@ -112,14 +105,23 @@ body {
 }
 
 .section_two{
-	padding: 0 100px;
+	padding:0 3em;
 	margin: auto;
 	text-align: left;
-	max-width: 1000px;
+}
+@media screen and (min-width: 500px){
+	.tagline{
+		padding-left: 2em;
+	}
+	.section_two{
+		padding: 0 100px;
+		max-width: 1000px;
+	}
 }
 .header{
-	font-size:xx-large;
+	font-size:25pt;
 	padding-top: 1em;
+	padding-left:1em;
 	border-bottom: 1px solid;
 }
 .content {
@@ -134,17 +136,6 @@ body {
 .tagline {
 	font-size: 22pt;
 	font-weight: 300;
-	padding-left: 50px;
-}
-
-.time {
-	font-size: 16pt;
-	font-weight: 300;
-}
-
-h1 {
-	font-weight: 300;
-	display: center;
 }
 
 .bold {
@@ -153,24 +144,6 @@ h1 {
 
 /**** Buttony things ****/
 
-.f {
-	font-size: 32pt;
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
-
-a {
-    color: #800080;
-    text-decoration: none;
-    border-bottom: none;
-    width: auto;
-}
-
-a:hover {
-	text-decoration: none;
-	color: #cd97ef;
-}
 .button {
    border: 3px solid #800080;
    text-align: center;
@@ -206,41 +179,43 @@ footer{
 /****** Events Stuff ******/
 
 .event{
-font-weight: 300;margin-bottom: 20px;}
+	font-weight: 300;
+	margin-bottom: 20px;
+}
 
 .events_container{
-margin: 0px 15% 0px 15%;
+	margin: 0px 15% 0px 15%;
 }
 
 .events_header{
-border-bottom: 1px solid black;
-font-size: -webkit-xxx-large;
-font-weight: 500;
+	border-bottom: 1px solid black;
+	font-size: -webkit-xxx-large;
+	font-weight: 500;
 }
 
 .event .name{
-font-size: xx-large;
-font-weight:600;
+	font-size: xx-large;
+	font-weight:600;
 }
 
 .event .date{
-font-size: x-large;
-font-weight: inherit;
-margin: 0;
-margin-top:5px;
-margin-left: 20px;
+	font-size: x-large;
+	font-weight: inherit;
+	margin: 0;
+	margin-top:5px;
+	margin-left: 20px;
 }
 
 .event .location{
-font-weight: inherit;
+	font-weight: inherit;
 }
 
 .event .desc{
-font-size: large;
-font-weight: inherit;
-margin: 0;
-margin-top:5px;
-margin-left: 20px;
+	font-size: large;
+	font-weight: inherit;
+	margin: 0;
+	margin-top:5px;
+	margin-left: 20px;
 }
 
 /********* About *********/
