@@ -1,34 +1,43 @@
 [
+
 {
-"name":"Brooksource Sponsored Fall Picnic: OHI/O Team Formation Social",
-"date":"October 2"
-},
-{
-"name":"Potluck Social",
-"date":"October 8"
-},
-{
-"name":"Tech Talk with Lockheed Martin",
-"date":"October 13"
-},
-{
-"name":"Grace Hopper Celebration Conference",
-"date":"October 14"
-},
-{
-"name":"Apple: OHI/O Pre-hype event: ResearchKit Demo",
-"date":"October 20"
-},
-{
-"name":"Google: Pumpkin Painting Social",
-"date":"October 20"
+"name":"Lean In Discussion Circle: Women, Work, and the Will to Lead",
+"date_string":"October 29th",
+"date":"October 29 2015"
 },
 {
 "name":"Outreach Event with Cool Tech Girls",
-"date":"October 24"
+"date_string":"October 24th",
+"date":"October 24 2015"
 },
 {
-"name":"Lean In Discussion Circle: Women, Work, and the Will to Lead",
-"date":"October 29"
+"name":"Google: Pumpkin Painting Social",
+"date_string":"October 20th",
+"date":"October 24 2015"
+},
+{
+"name":"Apple: OHI/O Pre-hype event: ResearchKit Demo",
+"date_string":"October 20th",
+"date":"October 24 2015"
+},
+{
+"name":"Grace Hopper Celebration Conference",
+"date_string":"October 14th",
+"date":"October 24 2015"
+},
+{
+"name":"Tech Talk with Lockheed Martin",
+"date_string":"October 13th",
+"date":"October 24 2015"
+},
+{
+"name":"Potluck Social",
+"date_string":"October 8th",
+"date":"October 24 2015"
+},
+{
+"name":"Brooksource Sponsored Fall Picnic: OHI/O Team Formation Social",
+"date_string":"October 2nd",
+"date":"October 24 2015"
 }
 ]
