@@ -3,7 +3,7 @@ var icons = ["",
   " <i class='fa fa-facebook-square'></i>"];
 var mapLinkIcon= " <i class='fa fa-map-marker'></i>";
 
-var eventsURL = "https://raw.githubusercontent.com/jmkuehn/ACMWsite/js/events.json";
+var eventsURL = "https://raw.githubusercontent.com/jmkuehn/ACMWsite/master/js/events.json";
 
 
 $.getJSON(eventsURL)
