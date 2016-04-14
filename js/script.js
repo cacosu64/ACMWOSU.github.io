@@ -1,7 +1,7 @@
 var events = "https://raw.githubusercontent.com/jmkuehn/ACMWsite/js-events/events/";
 /*for(var year = 2015; year <= 2016; year++){
   for(var month = 1; month <= 12; month++){
-    $.getJSON(events+'/'+year+'/'+month+'.json')
+    $.getJSON(events+year+'/'+month+'.json')
       .done(function(data){
         for (var event in events){
           console.log(newEvent(event));
@@ -13,7 +13,7 @@ var events = "https://raw.githubusercontent.com/jmkuehn/ACMWsite/js-events/event
   }
 }
 */
-$.getJSON('events/2016/4.json')
+$.getJSON(events+'2016/4.json')
       .done(function(data){
         for (var event in events){
           console.log(newEvent(event));
