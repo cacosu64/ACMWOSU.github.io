@@ -1,5 +1,5 @@
 var icons = ["",
-  " <i class='fa fa-external-link-square'></i>",
+  " <i class='fa fa-external-link'></i>",
   " <i class='fa fa-facebook-square'></i>"];
 var mapLinkIcon= " <i class='fa fa-map-marker'></i>";
 var startYear=2016;
@@ -10,20 +10,22 @@ for(var year = startYear; year <= (new Date).getUTCFullYear(); year++){
   for(var month = 4; month <= 4; month++){
     $.getJSON(events+year+'/'+month+'.json')
       .done(function(data){//On successful import populate the page
-        populateEvents(data, year);
+        populateEvents(data, year-1); // year increments by this point -- no idea why.
       })
       .fail(function(a, b, c){ //When fail contact me or link to github to submit pull request
         console.log(c);
       });
   }
 }
-function populateEvents(EventsJSON, year){
+function populateEvents(EventsJSON, eventYear){
   for (var i=0; i < EventsJSON.length; i++){  //Loop through events in that month
     var eventElement = newEvent(EventsJSON[i])
-    var eventDate = new Date(EventsJSON[i]['date']+', '+year);
+    var eventDate = new Date(EventsJSON[i]['date']+ ' ' + eventYear);
+    var today = new Date();
     var upcoming = document.getElementById('upcoming');
     var past = document.getElementById('past');
-    if(eventDate > new Date){
+    console.log(eventDate);
+    if(eventDate.getTime() > today.getTime()){
       upcoming.appendChild(eventElement);
     } else {
       past.insertBefore(eventElement, past.firstChild);
