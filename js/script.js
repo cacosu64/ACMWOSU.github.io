@@ -24,7 +24,6 @@ function populateEvents(EventsJSON, eventYear){
     var today = new Date();
     var upcoming = document.getElementById('upcoming');
     var past = document.getElementById('past');
-    console.log(eventDate);
     if(eventDate.getTime() > today.getTime()){
       upcoming.appendChild(eventElement);
     } else {
