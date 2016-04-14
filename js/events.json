@@ -1,5 +1,18 @@
 [
   {
+  "name":"OHI/O",
+  "title_url":"http://hack.osu.edu",
+  "link_type": 1,
+  "date_string":"November 19-20th",
+  "date":"November 19 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Collaborative analytics: Meeting global challenges through shared research and development",
   "title_url":"http://www.cura.osu.edu/rsvptolle",
   "link_type": 1,
