@@ -2,12 +2,13 @@ var icons = ["",
   " <i class='fa fa-external-link'></i>",
   " <i class='fa fa-facebook-square'></i>"];
 var mapLinkIcon= " <i class='fa fa-map-marker'></i>";
-var startYear=2016;
+var startYear=2015;
+var endYear=2016;
 var events = "https://raw.githubusercontent.com/jmkuehn/ACMWsite/js-events/events/";
 
 //From startYear to current year, look for any files [monthnumber].json
-for(var year = startYear; year <= (new Date).getUTCFullYear(); year++){ 
-  for(var month = 4; month <= 4; month++){
+for(var year = startYear; year <= endYear; year++){ 
+  for(var month = 1; month <= 12; month++){
     $.getJSON(events+year+'/'+month+'.json')
       .done(function(data){//On successful import populate the page
         populateEvents(data, year-1); // year increments by this point -- no idea why.
