@@ -1,18 +1,5 @@
 [
   {
-  "name":"Game Night with Microsoft",
-  "title_url":"",
-  "link_type": 0,
-  "date_string":"Friday, April 29th ",
-  "date":"April 29 2016",
-  "time":"6 PM - 12 AM",
-  "location":"Ohio Union Great Hall Meeting Room 2",
-  "location_url":"",
-  "desc":"Hope everyone can join us for a casual game night hosted by Microsoft & ACM-W. Microsoft will be in attendance providing food, tournament prizes and giveaways. Take a small study break Friday night and stop by to refuel and de-stress with FIFA & Mario Kart.",
-  "rsvp":"",
-  "rsvp_link":""
-  },
-  {
   "name":"OHI/O",
   "title_url":"http://hack.osu.edu",
   "link_type": 1,
@@ -22,6 +9,19 @@
   "location":"",
   "location_url":"",
   "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Game Night with Microsoft",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"Friday, April 29th ",
+  "date":"April 29 2016",
+  "time":"6 PM - 12 AM",
+  "location":"Ohio Union Great Hall Meeting Room 2",
+  "location_url":"",
+  "desc":"Hope everyone can join us for a casual game night hosted by Microsoft & ACM-W. Microsoft will be in attendance providing food, tournament prizes and giveaways. Take a small study break Friday night and stop by to refuel and de-stress with FIFA & Mario Kart.",
   "rsvp":"",
   "rsvp_link":""
   },
