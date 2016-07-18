@@ -52,6 +52,32 @@
   "rsvp_link":"https://www.eventbrite.com/e/women-in-analytics-conference-registration-22126090733"
   },
   {
+  "name":"FutureFuel Demo",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 13th",
+  "date":"April 13 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"GDI Code and Coffee",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 11th",
+  "date":"April 11 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Spring Picnic",
   "title_url":"https://www.facebook.com/events/1785307778372029",
   "link_type":2,
@@ -85,7 +111,163 @@
   "description":"ACM-W will be hosting Sid Chatterjee, CTO of Persistent Systems on \"Predictions for 2016: Eight Game-Changing Digital Technologies for Enterprise Transformation\""
   },
   {
-  "name":"Study Session",
+  "name":"Buck-i-Code Workshop",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 26th",
+  "date":"March 26 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Intro to Linux & FOSS",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 23rd",
+  "date":"March 23rd 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"\"How the Internet Works\" Workshop with CWDG",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 9th",
+  "date":"March 9 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"GHC Info Session",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 2nd",
+  "date":"March 2 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Tech Talk with Epic: \"Device Integrations\"",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 24th",
+  "date":"February 24 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"SORA Awards",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 17th",
+  "date":"February 17 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"\"Gal\"entine's Social",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 12th",
+  "date":"February 12 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Annual Quiz Bowl with UPE",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 10th",
+  "date":"February 10 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Tech Talk with Harris: \"Embedded Software Design\"",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 3rd",
+  "date":"February 3 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"\"Technical Interview Prep\" Workshop",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 27th",
+  "date":"January 27 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"\WiE Spring KickOff Event",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 21st",
+  "date":"January 21 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Semester KickOff - Mentor/Mentee",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 20th",
+  "date":"January 20 2016",
+  "time":"",
+  "location":"",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Insomnia Cookies Study Session",
   "date_string":"December 3rd",
   "date":"December 3 2015"
   },
@@ -181,5 +363,15 @@
   "name":"Ice Cream Social",
   "date_string":"September 3rd",
   "date":"September 3 2015"
+  },
+  {
+  "name":"WiE Fall KickOff Event",
+  "date_string":"August 27th",
+  "date":"August 27 2015"
+  },
+  {
+  "name":"Fall Involvement Fair",
+  "date_string":"August 23rd",
+  "date":"August 23 2015"
   }
 ]
