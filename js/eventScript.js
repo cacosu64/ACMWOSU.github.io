@@ -3,6 +3,17 @@ var icons = ["",
   " <i class='fa fa-facebook-square'></i>"];
 var mapLinkIcon= " <i class='fa fa-map-marker'></i>";
 
+link = function(url, text, icon){
+  var anchor = document.createElement("a");
+  anchor.innerHTML = text;
+  if(url){
+    anchor.setAttribute('href', url);
+    anchor.setAttribute('target', '_blank');
+  }
+  if(icon)anchor.innerHTML += icon;
+  return anchor;
+}
+
 var eventsURL = "https://raw.githubusercontent.com/jmkuehn/ACMWsite/master/js/events.json";
 
 
@@ -62,15 +73,4 @@ function newEvent(EventJSON){
   }
 
   return event;
-}
-
-link = function(url, text, icon){
-  var anchor = document.createElement("a");
-  anchor.innerHTML = text;
-  if(url){
-    anchor.setAttribute('href', url);
-    anchor.setAttribute('target', '_blank');
-  }
-  if(icon)anchor.innerHTML += icon;
-  return anchor;
 }
