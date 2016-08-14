@@ -1,5 +1,5 @@
 var icons = ["",
-  " <i class='fa fa-external-link'></i>",
+  " <i class='fa fa-external-link-square'></i>",
   " <i class='fa fa-facebook-square'></i>"];
 var mapLinkIcon= " <i class='fa fa-map-marker'></i>";
 
