@@ -13,6 +13,32 @@
   "rsvp_link":""
   },
   {
+  "name":"Cardinal Health - Tech Talk / Networking",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 2nd"",
+  "date":"November 2 2016",
+  "time":"",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"Speaker: Lori Havlovitz, VP of EIT Information Security and Technology Risk Management Representatives from the EMERGE rotational program will also be present.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Paxata Tech Talk",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 26th",
+  "date":"October 26 2016",
+  "time":"",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Grace Hopper Celebration Conference",
   "date_string":"October 19th-21st",
   "date":"October 21 2016"
@@ -92,6 +118,19 @@
   "location":"DL 113",
   "location_url":"",
   "desc":"hosted with Electronics Club",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"GE Internship Info Session",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"September 14th",
+  "date":"September 14 2016",
+  "time":"7:00-8:00pm",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"",
   "rsvp":"",
   "rsvp_link":""
   },
