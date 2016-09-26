@@ -83,6 +83,19 @@
   "rsvp_link":""
   },
   {
+  "name":"ACM-W Social + Resume Review",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"September 28th",
+  "date":"September 28 2016",
+  "time":"7:00-8:00pm",
+  "location":"Dreese Labs 264",
+  "location_url":"",
+  "desc":"Come hang out and get to know some of the other women in computer science! ACM-W members that have interned at major tech companies will also be there to review your resume help you figure out how to make it stand out to recruiters.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Google Luncheon: Personal Branding Workshop",
   "title_url":"",
   "link_type": 0,
