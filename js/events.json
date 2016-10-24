@@ -26,6 +26,19 @@
   "rsvp_link":""
   },
   {
+  "name":"Lean-In: Empowering Women in Technology",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 26th",
+  "date":"October 26 2016",
+  "time":"",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"Join ACM-W's next Lean In discussion on empowering women to achieve their dreams despite the challenges and gender biases in our workplace, classroom, and personal settings. Our members will also be chatting about our experiences at the Grace Hopper Celebration conference.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Grace Hopper Celebration Conference",
   "date_string":"October 19th-21st",
   "date":"October 21 2016"
