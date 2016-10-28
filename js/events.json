@@ -19,9 +19,22 @@
   "date_string":"November 2nd",
   "date":"November 2 2016",
   "time":"",
-  "location":"DL 264",
+  "location":"DL 369",
   "location_url":"",
   "desc":"Speaker: Lori Havlovitz, VP of EIT Information Security and Technology Risk Management Representatives from the EMERGE rotational program will also be present.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Paxata Tech Talk: ES2015 and the next generation of JS languages",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 2nd",
+  "date":"November 2 2016",
+  "time":"7:00 - 8:00 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"Now that the new spec for Javascript has been released it is time to catch up! During this presentation we will look at the changes to both the code and the ecosystem brought on by ES2015. We will explore how it will change frameworks like D3, Angular and React. Finally, we will explore how Paxata is working to upgrade from a legacy Angular 1 world to the promise of and Angular 2 one powered by Typescript.",
   "rsvp":"",
   "rsvp_link":""
   },
