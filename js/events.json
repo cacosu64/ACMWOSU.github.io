@@ -13,6 +13,19 @@
   "rsvp_link":""
   },
   {
+  "name":"Technical Interview Workshop",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 16th",
+  "date":"November 16 2016",
+  "time":"7 - 8 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"Join us for a workshop this week to sharpen your interview skills and gain valuable insight about the internship application process. Hear from past interns at Google, Microsoft, and local Columbus tech companies!*",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Women, Wine & Web Design {Create Your 1st Webpage}",
   "title_url":"",
   "link_type": 0,
