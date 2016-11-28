@@ -2,7 +2,7 @@
   {
   "name":"Study Session",
   "title_url":"",
-  "link_type": 1,
+  "link_type": 0,
   "date_string":"December 7th",
   "date":"December 7th 2016",
   "time":"7 - 8 PM",
@@ -15,7 +15,7 @@
   {
   "name":"Faculty Q&A Panel: Research & Graduate Programs",
   "title_url":"",
-  "link_type": 1,
+  "link_type": 0,
   "date_string":"November 30th",
   "date":"November 30 2016",
   "time":"7 - 8 PM",
@@ -28,7 +28,7 @@
   {
   "name":"HackOHI/O",
   "title_url":"http://hack.osu.edu/2016/",
-  "link_type": 1,
+  "link_type": 0,
   "date_string":"November 19-20th",
   "date":"November 19 2016",
   "time":"",
