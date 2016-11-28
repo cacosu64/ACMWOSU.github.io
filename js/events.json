@@ -1,5 +1,31 @@
 [
   {
+  "name":"Study Session",
+  "title_url":"",
+  "link_type": 1,
+  "date_string":"December 7th",
+  "date":"December 7th 2016",
+  "time":"7 - 8 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"Finals are right around the corner, so come study with ACM-W! This will be a chance to get together with friends and classmates to prepare for exams and unwind a little before they start.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Faculty Q&A Panel: Research & Graduate Programs",
+  "title_url":"",
+  "link_type": 1,
+  "date_string":"November 30th",
+  "date":"November 30 2016",
+  "time":"7 - 8 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"Join ACM-W and SWE as we host our first ever faculty Q&A panel. Our panelists will explore topics such as grad school programs and applications, various industry experience, interdisciplinary research and more. This will be a casual way to get some tips and advice from your professors so be sure to come with questions! *Food will be provided*",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"HackOHI/O",
   "title_url":"http://hack.osu.edu/2016/",
   "link_type": 1,
