@@ -6,9 +6,9 @@
   "date_string":"March 22nd",
   "date":"March 22 2017",
   "time":"7 - 8 PM",
-  "location":"",
+  "location":"DL 264",
   "location_url":"",
-  "desc":"",
+  "desc":"Taught by Kim Arnett",
   "rsvp":"",
   "rsvp_link":""
   },
@@ -71,7 +71,7 @@
   "date_string":"February 7th",
   "date":"February 7 2017",
   "time":"7 - 8 PM",
-  "location":"",
+  "location":"Dreese Labs 317",
   "location_url":"",
   "desc":"",
   "rsvp":"",
@@ -91,7 +91,7 @@
   "rsvp_link":""
   },
   {
-  "name":"Harris Tech Talk",
+  "name":"Harris Tech Talk: Company Culture & Selecting Your First Employer",
   "title_url":"",
   "link_type": 0,
   "date_string":"February 1st",
@@ -110,7 +110,7 @@
   "date_string":"January 25th",
   "date":"January 25 2017",
   "time":"7 - 8 PM",
-  "location":"",
+  "location":"DL 264",
   "location_url":"",
   "desc":"",
   "rsvp":"",
