@@ -38,14 +38,14 @@
   "rsvp":"",
   "rsvp_link":""
   },
-  {
-  "name":"Featured Speaker: Helen Patton",
+   {
+  "name":"CapitalOne Tech Talk",
   "title_url":"",
   "link_type": 0,
-  "date_string":"March 1st",
-  "date":"March 1 2017",
+  "date_string":"February 22nd",
+  "date":"February 22 2017",
   "time":"7 - 8 PM",
-  "location":"",
+  "location":"DL 264",
   "location_url":"",
   "desc":"",
   "rsvp":"",
@@ -57,10 +57,10 @@
   "link_type": 0,
   "date_string":"February 15th",
   "date":"February 15 2017",
-  "time":"7 - 8 PM",
-  "location":"",
+  "time":"6:30 - 8 PM",
+  "location":"DL 264",
   "location_url":"",
-  "desc":"",
+  "desc":"Wikipedia Connection will be working with ACM-W to host the Women in Computing Edit-a-thon 2017, an edit-a-thon focused on improving Wikipedia's articles on women in computing and related fields. Wikipedia currently has over 330 articles on women computer scientists, with the potential for more.Anyone with an interest in the cause and editing is welcome to join - no prior editing experience is required!",
   "rsvp":"",
   "rsvp_link":""
   },
