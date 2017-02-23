@@ -22,19 +22,28 @@ $.getJSON(eventsURL)
     populateEvents(data);
   })
   .fail(function(a, b, c){ //When fail contact me or link to github to submit pull request
+    jsonRetrieveError(c);
   });
+
+function jsonRetrieveError(err){
+  var upcoming = document.getElementById('upcoming');
+  upcoming.innerHTML = "Error retrieving JSON. Please contact the webmaster"
+  console.log("Request to '"+eventsURL+"' failed. Error: "+err);
+}
       
 function populateEvents(EventsJSON){
+  var today = new Date();
+  today.setHours(0,0,0,0); //Necessary to make same day events show up
   for (var i=0; i < EventsJSON.length; i++){  //Loop through events
     var eventElement = newEvent(EventsJSON[i])
     var eventDate = new Date(EventsJSON[i]['date']);
-    var today = new Date();
+    eventDate.setHours(0,0,0,0);
     var upcoming = document.getElementById('upcoming');
     var past = document.getElementById('past');
-    if(eventDate.getTime() > today.getTime()){
-      upcoming.insertBefore(eventElement, upcoming.firstChild);
-    } else {
+    if(eventDate.getTime() < today.getTime()){
       past.appendChild(eventElement);
+    } else {
+      upcoming.insertBefore(eventElement, upcoming.firstChild);
     }
   }
 }
