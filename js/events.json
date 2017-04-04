@@ -1,5 +1,57 @@
 [ 
   {
+  "name":"Brooksource Talk",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 19th",
+  "date":"April 19 2017",
+  "time":"7 - 8 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Featured Speaker: Liv Gjestvang",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 12th",
+  "date":"April 12 2017",
+  "time":"7 - 8 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Online and Data Privacy Talk",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 5th",
+  "date":"April 5 2017",
+  "time":"7 - 8 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"Interested in protecting your data and activity online? Come to Wednesday's meeting for a brief overview of privacy tools. Jimmy Johns will be provided.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"GHC + Exec Board Info Session",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 29nd",
+  "date":"March 29 2017",
+  "time":"7 - 8 PM",
+  "location":"DL 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"iOS Workshop",
   "title_url":"",
   "link_type": 0,
