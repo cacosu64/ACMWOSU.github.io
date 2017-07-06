@@ -1,1 +1,1 @@
-A redesign of the ACM-W at OSU page.
+ACM-W at OSU page.
