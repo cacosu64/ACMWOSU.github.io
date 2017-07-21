@@ -6,7 +6,7 @@ nav ul {
   margin: 0;
   background-color: #9b49ce;
 }
-nav li {
+nav li, h1#nav-title {
   font-family: 'Roboto', sans-serif;
   font-weight:300;
   font-size: 1.2em;
@@ -14,26 +14,56 @@ nav li {
   height: 40px;
   border-bottom: 1px solid white;
 }
- 
+
 nav a {
   text-decoration: none;
-  color: #fff;
   display: block;
   transition: .3s background-color;
+  color: #fff;
 }
- 
+
 nav a:hover {
   background-color: #c5a6e8;
   color: white;
 }
- 
+
 nav a.active {
   background-color: #fff;
   color: #9b49ce;
   cursor: default;
 }
- 
+
+h1#nav-title {
+  background-color: #9b49ce;
+  text-align: center;
+  margin: 0;
+  color: #fff;
+  transition: background-color .3s ease;
+}
+
+h1#nav-title.expanded {
+  background-color: #c5a6e8;
+}
+
+@media screen and (max-width: 599px) {
+  nav ul {
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    transition: height .5s ease;
+  }
+
+  ul.expanded {
+    height: 201px;
+  }
+}
+
 @media screen and (min-width: 600px) {
+  h1#nav-title {
+    display: none;
+  }
+
   nav li {
     width: 120px;
     border-bottom: none;
@@ -67,7 +97,7 @@ nav a.active {
 	margin: auto;
 	width: 350px;
 	height:350px;
-}	
+}
 .title {
 	margin: auto;
 	font-size: 36pt;
@@ -237,4 +267,3 @@ footer{
 	display: -webkit-inline-box;
     margin: 2em;
 }
-
