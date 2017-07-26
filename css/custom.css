@@ -53,9 +53,11 @@ h1#nav-title.expanded {
     position: absolute;
     transition: height .5s ease;
   }
-
   ul.expanded {
     height: 201px;
+  }
+  .content {
+    padding: 1em;
   }
 }
 
@@ -82,7 +84,9 @@ h1#nav-title.expanded {
   nav {
     background-color: #9b49ce;
   }
-
+  .content {
+    padding: 2em;
+  }
 }
 
 /******** General/Home ******/
@@ -153,13 +157,11 @@ h1#nav-title.expanded {
 .header{
 	font-size:25pt;
 	padding-top: 1em;
-	padding-left:1em;
 	border-bottom: 1px solid;
 }
 .content {
 	font-size:x-large;
 	font-weight:300;
-	padding: 2em;
 	margin: auto;
 	text-align: left;
 	max-width: 1000px;
@@ -254,16 +256,11 @@ footer{
 /********* About *********/
 
 /********* Contact ******/
-.split{
-	text-align: center;
+.e-board {
+  list-style: circle;
+  margin: 0;
 }
 
-.left{
-	display: -webkit-inline-box;
-    margin: 2em;
-}
-
-.right{
-	display: -webkit-inline-box;
-    margin: 2em;
+.e-board li {
+  padding-bottom: .5em;
 }

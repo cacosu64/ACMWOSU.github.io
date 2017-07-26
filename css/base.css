@@ -22,3 +22,8 @@ a:hover {
 	text-decoration: none;
 	color: #c5a6e8;
 }
+
+
+p {
+	margin-top: 0;
+}
