@@ -14,25 +14,21 @@ nav li, h1#nav-title {
   height: 40px;
   border-bottom: 1px solid white;
 }
-
 nav a {
   text-decoration: none;
   display: block;
   transition: .3s background-color;
   color: #fff;
 }
-
 nav a:hover {
   background-color: #c5a6e8;
   color: white;
 }
-
 nav a.active {
   background-color: #fff;
   color: #9b49ce;
   cursor: default;
 }
-
 h1#nav-title {
   background-color: #9b49ce;
   text-align: center;
@@ -40,11 +36,9 @@ h1#nav-title {
   color: #fff;
   transition: background-color .3s ease;
 }
-
 h1#nav-title.expanded {
   background-color: #c5a6e8;
 }
-
 @media screen and (max-width: 599px) {
   nav ul {
     height: 0;
@@ -60,7 +54,6 @@ h1#nav-title.expanded {
     padding: 1em;
   }
 }
-
 @media screen and (min-width: 600px) {
   h1#nav-title {
     display: none;
@@ -154,10 +147,15 @@ h1#nav-title.expanded {
 		max-width: 1000px;
 	}
 }
-.header{
+.header {
 	font-size:25pt;
 	padding-top: 1em;
 	border-bottom: 1px solid;
+}
+.header_2 {
+	font-size:30pt;
+  text-align: center;
+  color: #9b49ce;
 }
 .content {
 	font-size:x-large;
@@ -166,7 +164,6 @@ h1#nav-title.expanded {
 	text-align: left;
 	max-width: 1000px;
 }
-
 .tagline {
 	font-size: 22pt;
 	font-weight: 300;
@@ -174,6 +171,14 @@ h1#nav-title.expanded {
 
 .bold {
 	font-weight: 300;
+}
+
+img {
+  max-width: 750px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 /**** Buttony things ****/
@@ -191,7 +196,7 @@ h1#nav-title.expanded {
    border: 2px solid #c5a6e8;
 }
 /********* Footer *********/
-footer{
+footer {
 	text-align: center;
 	width: 100%;
 }
