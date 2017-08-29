@@ -14,7 +14,7 @@ link = function(url, text, icon){
   return anchor;
 }
 
-var eventsURL = "https://raw.githubusercontent.com/jmkuehn/ACMWsite/master/js/events.json";
+var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/ACMWOSU.github.io/master/js/events.json";
 
 
 $.getJSON(eventsURL)
@@ -30,7 +30,7 @@ function jsonRetrieveError(err){
   upcoming.innerHTML = "Error retrieving JSON. Please contact the webmaster"
   console.log("Request to '"+eventsURL+"' failed. Error: "+err);
 }
-      
+
 function populateEvents(EventsJSON){
   var today = new Date();
   today.setHours(0,0,0,0); //Necessary to make same day events show up
@@ -58,7 +58,7 @@ function newEvent(EventJSON){
   var date = document.createElement("h3");
   date.setAttribute('class', 'date');
   date.innerHTML= EventJSON['date_string'];
-  if(EventJSON['time']){date.innerHTML+= ' | ' + EventJSON['time']}; 
+  if(EventJSON['time']){date.innerHTML+= ' | ' + EventJSON['time']};
   if(EventJSON['location']){
     var location = EventJSON['location'];
     date.innerHTML+= ' | ';
