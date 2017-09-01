@@ -19,7 +19,7 @@
   "date_string":"September 28th",
   "date":"September 28 2017",
   "time":"11:00 AM - 1:00 PM",
-  "location":"TBD",
+  "location":"Nosker House, Burgee Room",
   "location_url":"",
   "desc":"",
   "rsvp":"",
@@ -87,19 +87,6 @@
   "location":"Caldwell 171",
   "location_url":"",
   "desc":"",
-  "rsvp":"",
-  "rsvp_link":""
-  },
-  {
-  "name":"Brooksource Picnic",
-  "title_url":"",
-  "link_type": 0,
-  "date_string":"September 6th",
-  "date":"September 6 2017",
-  "time":"7:00 - 8:00 PM",
-  "location":"Dreese 357",
-  "location_url":"",
-  "desc":"Come meet engineers from Brooksource and enjoy some free food!",
   "rsvp":"",
   "rsvp_link":""
   },
